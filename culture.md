@@ -24,7 +24,7 @@ We’re a team pushing a radical idea: the future of the web depends on a health
 
 
 ## The best idea can come from anywhere
-Easy to write, easy to say. The way to live it we find is not by finding a silver bullet but with lot's of individual initiatives such as   
+Easy to write, easy to say. The way to live it we find is not by finding a silver bullet but with lots of individual initiatives such as   
 * Celebrating each others victories.
 * Intentional knowledge sharing.
 * Video hangouts.
